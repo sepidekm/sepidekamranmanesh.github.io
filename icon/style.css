@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?bo0zfl');
+  src:  url('fonts/icomoon.eot?bo0zfl#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?bo0zfl') format('truetype'),
+    url('fonts/icomoon.woff?bo0zfl') format('woff'),
+    url('fonts/icomoon.svg?bo0zfl#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-instagram:before {
+  content: "\e900";
+}
+.icon-brand:before {
+  content: "\e900";
+}
+.icon-social:before {
+  content: "\e900";
+}
+.icon-linkedin:before {
+  content: "\e901";
+}
+.icon-brand1:before {
+  content: "\e901";
+}
+.icon-social1:before {
+  content: "\e901";
+}
+.icon-road:before {
+  content: "\e902";
+}
+.icon-asphalt:before {
+  content: "\e902";
+}
+.icon-travel:before {
+  content: "\e902";
+}
+.icon-develop:before {
+  content: "\e903";
+}
+.icon-work:before {
+  content: "\e903";
+}
+.icon-code:before {
+  content: "\e903";
+}
+.icon-program:before {
+  content: "\e903";
+}
+.icon-baseball-set:before {
+  content: "\e904";
+}
+.icon-suitcase:before {
+  content: "\e905";
+}
+.icon-briefcase:before {
+  content: "\e905";
+}
+.icon-calendar-o:before {
+  content: "\e906";
+}
+.icon-cubes:before {
+  content: "\e907";
+}
+.icon-device-laptop:before {
+  content: "\e908";
+}
+.icon-at-sign:before {
+  content: "\e909";
+}
+.icon-chevron-right:before {
+  content: "\e90a";
+}
+.icon-coffee:before {
+  content: "\e90b";
+}
+.icon-film:before {
+  content: "\e90c";
+}
+.icon-headphones:before {
+  content: "\e90d";
+}
+.icon-map-pin:before {
+  content: "\e90e";
+}
+.icon-phone:before {
+  content: "\e90f";
+}
+.icon-search:before {
+  content: "\e910";
+}
+.icon-smile:before {
+  content: "\e911";
+}
+.icon-twitter:before {
+  content: "\e912";
+}
+.icon-mobile-devices:before {
+  content: "\e913";
+}
